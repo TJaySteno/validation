@@ -40,6 +40,7 @@ Use these to write out your first pass at the rule:
 	    Signatures where signer is D is less than 1)
 	)
 ## Write Your Tests First
+
 > Reference: https://jestjs.io/docs/api
 
 Using the fields you just created, write your tests by replacing everything in the < > brackets below.
@@ -58,7 +59,8 @@ You can use true/false or 1/0; these two are the same.
     });
 Continue writing your test cases until your edge cases are covered.
 
-### Write Your Rule
+## Write Your Rule Second
+
 Using && (and), || (or), and parentheses, turn your rule into a true/false evaluation by replacing everything after 'return'.
 
 Our first pass above...
